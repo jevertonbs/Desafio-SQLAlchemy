@@ -28,12 +28,11 @@ O projeto conta com duas versões, pois é proposto que façamos dois tipos de b
 ## Meta
 <br>
 
-<h2>Guilherme Bracero Gonzales</h2>
+<h2>José Everton Barreto da Silva</h2>
 
 <br>
 
-LinkedIN - [Guilherme Bracero](https://www.linkedin.com/in/guilherme-bracero/)
+LinkedIN - [Guilherme Bracero](https://www.linkedin.com/in/everton-barreto/)
 <br>
-Instagram - [Bracero](https://instagram.com/guilhermebracero)
-<br>
-Email - [guibragon@gmail.com](www.gmail.com) 
+
+Email - [jevertonbs@icloud.com]
